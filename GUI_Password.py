@@ -6,7 +6,7 @@ root = tkinter.Tk()
 root.title("Two factor authentication")
 
 account_sid = 'AC7a5eb26af08bf3acc94dfb5fabb6a36d'
-auth_token = 'bdf3d455fc6cfdb637ef9399f0f7cfc3'
+auth_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 client = Client(account_sid, auth_token)
 
 randomDigits = random.randint(100000,999999)
