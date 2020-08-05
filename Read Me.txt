@@ -1,0 +1,6 @@
+For this project I have a free Twilio trial account, so I can only send text messages
+to verified numbers.  If you would like to try our software and have it send you the verification
+code I will need your cell phone number, then I can add it to the verified numbers on the account.
+Thanks
+Rick Daniel
+rickd84@gmail.com
